@@ -1,8 +1,5 @@
 /* eslint-disable no-magic-numbers */
 
-// https://en.wikipedia.org/wiki/Pigeonhole_sort
-// array of numbers
-// range from 0 - 999
 
 export default function pigeonholeSort(unsortedArray) {
 
