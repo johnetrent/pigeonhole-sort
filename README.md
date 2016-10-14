@@ -20,12 +20,12 @@ From [wikipedia]:
 > list of all values with that key.
 
 > 3. Iterate over the pigeonhole array in order, and put elements from non-empty
-> pigeonholes back into the > original array.
-
-[wikipedia]: https://en.wikipedia.org/wiki/Pigeonhole_sort
+> pigeonholes back into the original array.
 
 ## Testing
 
 ```sh
 yarn test
 ```
+
+[wikipedia]: https://en.wikipedia.org/wiki/Pigeonhole_sort
